@@ -4,7 +4,28 @@
 ## Prerequisites
   * Python 
   * Docker
-## Workflow
-<img width="862" height="435" alt="Untitled Diagram-Main drawio(1)" src="https://github.com/user-attachments/assets/f06eb004-7711-43c9-8c1a-fe86d97e4e63" />
+## Project Structure
+.
+├── api.py
+├── consumer.py
+├── data
+│   └── deploit_testing.csv
+├── models
+│   ├── mapping_dict.joblib
+│   └── pipeline.joblib
+├── notebooks
+│   ├── 1_engineering_data.ipynb
+│   ├── 2_EDA.ipynb
+│   ├── 3_split_data.ipynb
+│   └── 4_model.ipynb
+├── preprocessor
+│   ├── encode.py
+│   ├── __pycache__
+│   └── transformer.py
+├── __pycache__
+│   └── api.cpython-312.pyc
+├── README.md
+├── requirements.txt
+└── ui.py
+## Architecture
 
-  
