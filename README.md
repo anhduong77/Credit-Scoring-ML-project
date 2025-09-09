@@ -27,6 +27,6 @@
 │   └── api.cpython-312.pyc
 ├── README.md
 ├── requirements.txt
-└── ui.py
+└── ui.py ` `
 
 ## Architecture
