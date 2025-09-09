@@ -5,6 +5,7 @@
   * Python 
   * Docker
 ## Project Structure
+```bash
 .
 ├── api.py
 ├── consumer.py
