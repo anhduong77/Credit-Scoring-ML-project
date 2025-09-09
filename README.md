@@ -6,7 +6,7 @@
   * Docker
 ## Project Structure
 ```bash
-.
+/credit_scoring_project
 ├── api.py
 ├── consumer.py
 ├── data
@@ -28,5 +28,5 @@
 ├── README.md
 ├── requirements.txt
 └── ui.py
-## Architecture
 
+## Architecture
