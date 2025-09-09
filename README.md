@@ -59,6 +59,6 @@
   streamlit run ui.py
   ```
 * 5) Upload data and test
-     Go to http://localhost:8501/
-     Upload available data in data/deploit_testing.csv
-     Chose the row index and click the 'Predict selected row' button
+     - Go to http://localhost:8501/
+     - Upload available data in data/deploit_testing.csv
+     - Chose the row index and click the 'Predict selected row' button
