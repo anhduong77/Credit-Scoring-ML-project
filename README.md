@@ -31,4 +31,5 @@
 ```
 
 ## Architecture
-<img width="862" height="435" alt="Image" src="https://github.com/user-attachments/assets/449910b4-5a60-4093-943f-cde03a0719fc" />
+!<img width="862" height="435" alt="Image" src="https://github.com/user-attachments/assets/449910b4-5a60-4093-943f-cde03a0719fc" />
+## Instructions
